@@ -12,6 +12,7 @@ li a{
     color: white;
     text-align: center;
     padding: 14px 16px;
+    text-decoration: none;
 }
 /* efecto hover() sobre para las ofciones de la nav*/
 li a:hover {
