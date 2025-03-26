@@ -1,10 +1,10 @@
-ul {
+.nav-bar {
     list-style-type: none;
     margin: 0;
     padding: 9;
     overflow: hidden;
 }
-li{
+.nav-bar li{
     float: left;
 }
 li a{
