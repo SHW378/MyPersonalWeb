@@ -16,7 +16,7 @@ li a{
 }
 /* efecto hover() sobre para las ofciones de la nav*/
 li a:hover {
-    background-color: rgb(97, 77, 246);
+    background-color: rgb(38, 20, 171);
 }
 header {
     background-color: black;
