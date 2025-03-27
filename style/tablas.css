@@ -5,10 +5,10 @@ table, th, td {
 }
 
 th { 
-    background-color: aqua;
+    background-color: rgb(0, 77, 18);
 }
 
 td{
-    background-color: aquamarine;
+    background-color: rgb(0, 50, 12);
     padding: 10px;
 }
